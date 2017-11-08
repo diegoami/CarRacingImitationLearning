@@ -1,5 +1,5 @@
 # CarRacingImitationLearning
-
+A very interesting approach to Imitation learning : 
 CarRacing-v0:
 
 Actions:
